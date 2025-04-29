@@ -1,6 +1,6 @@
 <div align="center">
  <h1>INGATIN BANG</h1>
-  **Aplikasi To do List**
+  <h2>Aplikasi To do List</h2>
 </div>
 
 Pencatatan dan Pengingat Tugas Mahasiswa
