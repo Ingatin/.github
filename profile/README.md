@@ -14,7 +14,7 @@ Pencatatan dan Pengingat Tugas Mahasiswa
 * **Detail Task**
 * **Edit Task**
 * **Delete Task**
-* **Notification Task** 
+* **Notification** 
 * **Logout**
 
 ## 💻 Team Members
