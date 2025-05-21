@@ -10,7 +10,7 @@ Pencatatan dan Pengingat Tugas Mahasiswa
 * **Sign Up**
 * **Home**
 * **List Task**
-* **List Task By Catego**
+* **List Task By Category**
 * **Detail Task**
 * **Edit Task**
 * **Delete Task**
