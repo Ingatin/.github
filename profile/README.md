@@ -35,3 +35,5 @@ Pencatatan dan Pengingat Tugas Mahasiswa
 
 
 ## Brainy   | [Link Aplikasi](https://drive.google.com/file/d/1PqcQFrPok0ebXDiky9xYY0xDexquLA3K/view?usp=sharing)
+
+**Minimal Android 7 Marshmallow
