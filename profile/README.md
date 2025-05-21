@@ -20,3 +20,6 @@ Pencatatan dan Pengingat Tugas Mahasiswa
 | Backend         | Node.js                              |
 | Database        | Firestore                            |
 | Authentication  | Firebase Auth                        |
+
+
+## Brainy   | [Link Aplikasi](https://drive.google.com/file/d/1TcTRQLK9CU6585iwQdnVBmaphzNrRtV3/view?usp=drive_link)
