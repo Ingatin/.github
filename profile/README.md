@@ -17,9 +17,9 @@ Pencatatan dan Pengingat Tugas Mahasiswa
 | Category        | Technology                           |
 |-----------------|--------------------------------------|
 | Frontend        | Android (Kotlin, Jetpack Compose)    |
-| Backend         | Node.js                              |
+| Backend         | Express.js & Node.js                 |
 | Database        | Firestore                            |
-| Authentication  | Firebase Auth                        |
+| Authentication  | JWT                                  |
 
 
 ## Brainy   | [Link Aplikasi](https://drive.google.com/file/d/1PqcQFrPok0ebXDiky9xYY0xDexquLA3K/view?usp=sharing)
