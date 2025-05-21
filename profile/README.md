@@ -4,6 +4,18 @@
 </div>
 
 Pencatatan dan Pengingat Tugas Mahasiswa
+### Fitur
+* **Splash Screen**
+* **Login**
+* **Sign Up**
+* **Home**
+* **List Task**
+* **List Task By Catego**
+* **Detail Task**
+* **Edit Task**
+* **Delete Task**
+* **Notification Task** 10 Minutes & 1 Minutes
+* **Logout**
 
 ## 💻 Team Members
 | Name                       | NIM          | Github                                                    | 
