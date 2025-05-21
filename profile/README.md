@@ -8,7 +8,7 @@ Pencatatan dan Pengingat Tugas Mahasiswa
 ## 💻 Team Members
 | Name                       | NIM          | Github                                                    | 
 | -------------------------- | ------------ | --------------------------------------------------------- | 
-| Muhammad Rafly Landen      | 13020220247  | [Muhammad Rafly Landen]()                                 | 
+| Muhammad Rafly Landen      | 13020220247  | [Muhammad Rafly Landen](https://github.com/RaflyLanden)   | 
 | Muh. Rafianto              | 13020220322  | [Muh. Rafianto](https://github.com/Ertreiter)             |
 | Muhammad Ihsan Saifullah   | 13020220105  | [Muhammad Ihsan Saifullah](https://github.com/Ihsan-xyz)  | 
 | Raqhib Ataillah            | 13020220193  | [Raqhib Ataillah](https://github.com/Raqhib)              | 
