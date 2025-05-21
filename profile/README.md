@@ -22,4 +22,4 @@ Pencatatan dan Pengingat Tugas Mahasiswa
 | Authentication  | Firebase Auth                        |
 
 
-## Brainy   | [Link Aplikasi]([https://drive.google.com/file/d/1TcTRQLK9CU6585iwQdnVBmaphzNrRtV3/view?usp=drive_link](https://drive.google.com/file/d/1PqcQFrPok0ebXDiky9xYY0xDexquLA3K/view?usp=sharing))
+## Brainy   | [Link Aplikasi](https://drive.google.com/file/d/1TcTRQLK9CU6585iwQdnVBmaphzNrRtV3/view?usp=drive_link](https://drive.google.com/file/d/1PqcQFrPok0ebXDiky9xYY0xDexquLA3K/view?usp=sharing)
